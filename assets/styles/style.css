@@ -1,0 +1,19 @@
+:root {
+  --cor-de-fundo: #ebecee;
+  --branco: #ffffff;
+  --laranja: #eb9b00;
+  --blue-gradient: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
+  --font-principal: "Poppins";
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--cor-de-fundo);
+  font-size: 1.6rem;
+  font-family: var(--font-principal);
+  font-weight: 400;
+}

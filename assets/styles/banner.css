@@ -1,0 +1,15 @@
+.banner {
+  background: var(--blue-gradient);
+  text-align: center;
+  padding: 3.2rem;
+  color: var(--branco);
+}
+
+.banner__title {
+  font-weight: 700;
+  margin-bottom: 1.2rem;
+}
+
+.banner__description {
+  margin-bottom: 2.4rem;
+}
